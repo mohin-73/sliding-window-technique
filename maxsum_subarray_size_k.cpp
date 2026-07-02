@@ -47,6 +47,7 @@ int main() {
     ------------------
     Problem Statement:
     ------------------
+    
     You are given an integer array nums and an integer k. Find the maximum subarray sum of all the subarrays of nums that meet the following conditions:
 
     The length of the subarray is k, and
@@ -68,7 +69,7 @@ int main() {
     - [2,9,9] which does not meet the requirements because the element 9 is repeated.
     - [9,9,9] which does not meet the requirements because the element 9 is repeated.
     We return 15 because it is the maximum subarray sum of all the subarrays that meet the conditions
-    
+
     ----------
     Example 2:
     ----------
